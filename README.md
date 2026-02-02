@@ -5,7 +5,8 @@ Ressources travaux pratiques "Développement de systèmes d'aide à la décision
 1. Lancez l'environnement Python
 https://mybinder.org/
 Remplir comme suit :
-<img width="1107" height="231" alt="image" src="https://github.com/user-attachments/assets/fb8dcac3-b3af-4e49-a052-5183c37e00cb" />
+<img width="1120" height="339" alt="image" src="https://github.com/user-attachments/assets/9f237210-6233-4bac-935c-f83fbd8d3217" />
+
 
 En moins de 5 minutes, un JupyterLab se lance. Et hop ! A vous de jouer.
 
